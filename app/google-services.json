@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "11388119369",
+    "project_id": "hamari-awaaz-4fd34",
+    "storage_bucket": "hamari-awaaz-4fd34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11388119369:android:761be979e050d4f1be9298",
+        "android_client_info": {
+          "package_name": "ru.ifsoft.network"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "11388119369-o0tngboa465e2s26fvv8phblkh2ejnpj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPHVprMlD4ni_sW_EPC_ZLsX56Sj5ecTs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "11388119369-o0tngboa465e2s26fvv8phblkh2ejnpj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
